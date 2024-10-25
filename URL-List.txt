@@ -1,5 +1,1 @@
-test.com
-xyz.com
-MGT.IN
-1.2.3.net
-ndtv.com
+TEST.123.COM
