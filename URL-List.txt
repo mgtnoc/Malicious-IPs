@@ -1,3 +1,5 @@
 TEST.123.COM
 ndtv.com
 india.test.com
+google.com
+Bloomberg.com
